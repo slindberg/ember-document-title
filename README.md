@@ -1,6 +1,6 @@
 ## `document.title` support for [Ember.js](http://emberjs.com/)
 
-This repository serves as a bower installable mirror of [Alex Matchneer's](https://github.com/machty) [original public gist](https://gist.github.com/machty/8413411).
+This repository serves as a bower installable mirror of [Alex Matchneer's](https://github.com/machty) [original public gist](https://gist.github.com/machty/8413411). Support for `document.title` is on the Ember roadmap, but the API is yet to be determined and will likely differ from the one set out in this plugin. See [this github issue](https://github.com/emberjs/ember.js/pull/3689) for more information.
 
 Install via bower:
 
