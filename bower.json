@@ -1,0 +1,11 @@
+{
+  "name": "ember-document-title",
+  "version": "0.1.0",
+  "homepage": "https://github.com/slindberg/ember-document-title",
+  "description": "Support for `document.title` in Ember.js",
+  "main": "ember-document-title.js",
+  "keywords": [
+    "Ember",
+    "title"
+  ]
+}
